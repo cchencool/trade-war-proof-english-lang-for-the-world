@@ -12,15 +12,15 @@ A backup toolkit for English users in mainland China, in case of the English let
 
 ## Usage
 
-1. checkout the git.
+1. Checkout the git.
 
-   `https://github.com/cchencool/trade-war-proof-self-english-lang-for-the-world.git`
+   `https://github.com/cchencool/trade-war-proof-english-lang-for-the-world.git`
 
-2. get into the directory.
+2. Get into the directory.
 
    `cd trade-war-proof-self-english-lang-for-the-world/code`
 
-3. change file permissions.
+3. Change file permissions.
 
    `chmod +x trans.py`
 

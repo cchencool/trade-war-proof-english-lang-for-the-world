@@ -1,4 +1,4 @@
-# trade-war-proof-self-english-lang-for-the-world
+# trade-war-proof-english-lang-for-the-world
 A backup toolkit for English users in mainland China, in case of the English letters are banned by the US.
 
 
